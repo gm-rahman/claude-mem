@@ -4,8 +4,6 @@ dist/
 **/_tree-sitter/
 *.log
 .DS_Store
-.env
-.env.local
 *.tmp
 *.temp
 .install-version
@@ -53,3 +51,8 @@ docker/install-test/
 
 # Local session report artifacts (not part of distribution)
 reports/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
