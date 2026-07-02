@@ -8,7 +8,7 @@
     "claude-mem": "file:../.."
   },
   "scripts": {
-    "start": "node index.mjs"
+    "start": "node api.js && node index.mjs"
   },
   "engines": {
     "node": ">=20.0.0"
